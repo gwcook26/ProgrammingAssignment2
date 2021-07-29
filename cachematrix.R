@@ -1,6 +1,6 @@
 ## makeCacheMatrix is a function that returns a list of functions.
 ## this function stores a matrix and caches an inverse of that matrix for later use
-## it is relatively smilar to the example code with means swapped for inverses
+## it is relatively smilar to the example code with means swapped for inverses or solves
 ## Note: used dummy and inv instead of single letter variables to help me better
 ## organize my thoughts
 
